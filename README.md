@@ -1,10 +1,10 @@
 # wilopo_cargo
-Test coding junior web developer
+Test coding junior Fullstack Developer
 
 LARAVEL : 8.X.X
 XAMPP : 3.2.4
+DB Name : wilopo_cargo
 
-database : wilopo_cargo
 langkah instalasi 
 1. jalankan 'php artisan serve'
 2. jalankan 'php artisan migrate'
